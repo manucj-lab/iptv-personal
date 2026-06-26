@@ -7,3 +7,21 @@ https://590989b531776.streamlock.net/opasur/opasur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Caracol.co" group-title="Colombia",Caracol TV
 https://caracol.tls.video/live/caracol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Repretel6.cr" group-title="Costa Rica",Repretel Canal 6
+https://repretel-live.akamaized.net/hls/live/2034447/rep6/master.m3u8
+
+#EXTINF:-1 tvg-id="Multimedios8.cr" group-title="Costa Rica",Multimedios Canal 8
+https://639a0676dfc92.streamlock.net/multimedioscr/multimedioscr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Extra42.cr" group-title="Costa Rica",Extra TV Canal 42
+https://5b36441b80c3f.streamlock.net/extratv/extratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trivision36.cr" group-title="Costa Rica",Trivisión Canal 36
+https://590989b531776.streamlock.net/trivision/trivision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.cr" group-title="Costa Rica",Canal 1 (CR)
+https://5a21626079fb3.streamlock.net/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Impact.cr" group-title="Costa Rica",Impact Channel
+https://5b36441b80c3f.streamlock.net/impacttv/impacttv/playlist.m3u8
