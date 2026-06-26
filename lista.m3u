@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Mega.cl" group-title="Chile",Mega (Megavisión)
+https://content.uplynk.com/channel/3ccbe1722e0e4708a55986968037c867.m3u8
+
+#EXTINF:-1 tvg-id="Opa.cr" group-title="Costa Rica",Canal 38 OPA
+https://590989b531776.streamlock.net/opasur/opasur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Caracol.co" group-title="Colombia",Caracol TV
+https://caracol.tls.video/live/caracol/playlist.m3u8
