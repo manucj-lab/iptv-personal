@@ -2,3 +2,5 @@
 Este repositorio contiene mis canales preferidos de Chile, Costa Rica y Colombia.
 
 **Enlace corto para el Fire TV:** (https://is.gd/WM4QLT)
+
+**Enlace corto para Fire TV con más canales:** (https://is.gd/iMVUc1)
