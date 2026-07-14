@@ -1,19 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Mega.cl" group-title="Chile",Mega (Megavisión)
-https://content.uplynk.com/channel/3ccbe1722e0e4708a55986968037c867.m3u8
-#EXTINF:-1 tvg-id="Opa.cr" group-title="Costa Rica",Canal 38 OPA
-https://590989b531776.streamlock.net/opasur/opasur/playlist.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" group-title="Colombia",Caracol TV
-https://caracol.tls.video/live/caracol/playlist.m3u8
-#EXTINF:-1 tvg-id="Repretel6.cr" group-title="Costa Rica",Repretel Canal 6
-https://repretel-live.akamaized.net/hls/live/2034447/rep6/master.m3u8
-#EXTINF:-1 tvg-id="Multimedios8.cr" group-title="Costa Rica",Multimedios Canal 8
-https://639a0676dfc92.streamlock.net/multimedioscr/multimedioscr/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1.cr@SD" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="General",Canal 1 (720p) [Not 24/7]
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="General",Canal 4 (720p)
+https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr@SD" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="General",Canal 6 (720p)
+https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr@SD" tvg-logo="https://i.imgur.com/ctnvE3c.png" http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8.cr@SD" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="General",Canal 8 (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="General",Canal 10 (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Canal11.cr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" group-title="General",Canal 11 (720p)
+https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="TVN14.cr@SD" tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="Undefined",Canal 14 San Carlos (720p) [Not 24/7]
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="QuinceUCR.cr@SD" tvg-logo="https://i.imgur.com/U7DUlem.png" group-title="Undefined",Quince UCR (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ImpactChannel.cr@SD" tvg-logo="https://i.imgur.com/YRRID7W.png" group-title="Religious",Impact Channel
+https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivision36.cr@SD" tvg-logo="https://i.imgur.com/aadWnIx.jpg" https://liveingesta318.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8
+#EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment",¡OPA! (1080i) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="Extra42.cr" group-title="Costa Rica",Extra TV Canal 42
-https://5b36441b80c3f.streamlock.net/extratv/extratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trivision36.cr" group-title="Costa Rica",Trivisión Canal 36
-https://590989b531776.streamlock.net/trivision/trivision/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1.cr" group-title="Costa Rica",Canal 1 (CR)
-https://5a21626079fb3.streamlock.net/canal1/canal1/playlist.m3u8
-#EXTINF:-1 tvg-id="Impact.cr" group-title="Costa Rica",Impact Channel
-https://5b36441b80c3f.streamlock.net/impacttv/impacttv/playlist.m3u8
+https://d2n1wzrr0aogf5.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-id="TicaVision.cr@SD" tvg-logo="https://i.imgur.com/mev90pC.jpg" group-title="General",TicaVision
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.cr@SD" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Sports",Tigo Sports (720p) [Geo-blocked]
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
